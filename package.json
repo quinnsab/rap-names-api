@@ -1,0 +1,21 @@
+{
+  "name": "class38-materials",
+  "version": "1.0.0",
+  "description": "rap-names-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "rap-names-api"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "json": "^11.0.0",
+    "node.js": "^0.0.1-security",
+    "nodemon": "^2.0.20"
+  }
+}
