@@ -1,7 +1,10 @@
 const { request, response } = require('express')
 const express = require('express')
+const cors = require ('cors')
 const app = express()  //the app can now use all the things that come with express
 const PORT = 8000
+
+app.use(cors())
 
 const rappers = {
    '21 savage': {
